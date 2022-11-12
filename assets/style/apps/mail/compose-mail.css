@@ -152,10 +152,10 @@
 
 @media screen and (max-width: 600px) {
     .compose-mail-modal {
-        top: 184px;
+        top: 164px;
         width: 100%;
         right: 0;
-        height: calc(100vh - 184px);
+        height: calc(100vh - 164px);
     }
     .compose-mail-modal .actions-container {
         display: flex;
