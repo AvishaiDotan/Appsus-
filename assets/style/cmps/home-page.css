@@ -91,3 +91,9 @@
     right: 0;
     bottom: 0;
 }
+
+@media screen and (max-width: 1600px) {
+    .home-page .home-page-img {
+        display: none;
+    }
+}
