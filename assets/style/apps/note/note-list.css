@@ -1,7 +1,7 @@
 .note-list {
     gap: 10px;
     column-count: 6;
-    column-width: 250px;
+    column-width: 300px;
 }
 
 .note-list >* {
