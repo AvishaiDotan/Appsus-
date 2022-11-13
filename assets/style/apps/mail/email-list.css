@@ -93,7 +93,7 @@
 
 .email-list .overlay {
     width: 100%;
-    height: calc(100vh - 164px);
+    height: calc(100vh - 184px);
     background-color: #0000004f;
     position: absolute;
     bottom: 0;

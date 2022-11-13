@@ -43,7 +43,7 @@
     .email-folder-list {
         position: fixed;
         z-index: 150;
-        top: 164px;
+        top: 184px;
         left: -1000px;
         background-color: var(--clr-mail2);
         width: 80%;

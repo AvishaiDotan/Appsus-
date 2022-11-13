@@ -52,7 +52,7 @@
 }
 
 .about-page .img-container img {
-    height: 100vh;
+    height: 100%;
     width: 100%;
     object-fit: cover;
     animation: imgOpacity 9s infinite normal forwards;
@@ -137,8 +137,6 @@
     grid-template-areas:
       "about-img about-txt"
       "about-img about-cont";
-    max-height: calc(100vh - 80px);
-    overflow: hidden;
   }
   
 .about { grid-area: about-txt; }
